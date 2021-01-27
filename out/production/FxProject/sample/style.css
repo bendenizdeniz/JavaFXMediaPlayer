@@ -1,0 +1,78 @@
+
+    #openFile{
+        -fx-background-image: url("./images/folder2.png");
+        -fx-background-size: 32 45;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+       /* -fx-background-color: transparent;*/
+    }
+
+    #playButton{
+            -fx-background-image: url("./images/play2.png");
+            -fx-background-size: 32 43;
+            -fx-background-repeat: no-repeat;
+            -fx-background-position: center;
+            -fx-background-color: transparent;
+    }
+
+    #pauseButton{
+            -fx-background-image: url("./images/pause2.png");
+            -fx-background-size: 30 25;
+            -fx-background-repeat: no-repeat;
+            -fx-background-position: center;
+            -fx-background-color: transparent;
+    }
+
+    #stopButton{
+            -fx-background-image: url("./images/stop2.png");
+            -fx-background-size: 30 35;
+            -fx-background-repeat: no-repeat;
+            -fx-background-position: center;
+            -fx-background-color: transparent;
+    }
+
+    #borderPane{
+        -fx-background-color: black;
+    }
+
+      #fasterVideo{
+        -fx-background-image: url("./images/faster.png");
+        -fx-background-size: 20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+       /* -fx-background-color: transparent;*/
+    }
+
+   #fastVideo{
+       -fx-background-image: url("./images/fast.png");
+        -fx-background-size: 20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+       /* -fx-background-color: transparent;*/
+    }
+
+    #slowerVideo{
+        -fx-background-image: url("./images/slower.png");
+        -fx-background-size: 20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+      /*  -fx-background-color: transparent;*/
+    }
+
+    #slowVideo{
+        -fx-background-image: url("./images/slow.png");
+        -fx-background-size: 20 20;
+        -fx-background-repeat: no-repeat;
+        -fx-background-position: center;
+       /* -fx-background-color: transparent;*/
+    }
+
+    #exitVideo{
+            -fx-background-image: url("./images/exit.png");
+            -fx-background-size: 36 36;
+            -fx-background-repeat: no-repeat;
+            -fx-background-position: center;
+            -fx-background-color: transparent;
+        }
+
+
